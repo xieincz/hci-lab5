@@ -126,3 +126,15 @@ Days 1-2: Question development and survey setup
 Days 3-4: Survey distribution and data collection
 
 Days 5-6: Data analysis and preparation for the final report
+
+
+## Data Analysis
+### Interview Data Analysis
+等待填写
+
+#### Affinity diagram
+等待填写
+
+### Survey Data Analysis
+等待填写
+
