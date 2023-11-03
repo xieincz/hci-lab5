@@ -21,14 +21,14 @@ student ID: 202000130052
 
 contribution: 
 1. Write interview questions and survey questions on the topic of "Future expectations and suggestions for improvement".
-2. Conduct the interview and collect the interviewee's responses.
+2. Conduct the interview, collect the interviewee's responses, and analyze the data.
 
 #### 方博文
 student ID: 202000161244
 
 contribution: 
 1. Consolidate, modify, and typeset all the content, while adding descriptions and other text for the interview questions and survey questions.
-2. Responsible for conducting surveys and collecting respondents' answers.
+2. Responsible for conducting surveys, collecting respondents' answers, and analyzing the data.
 
 #### 黄艺
 student ID: 201900411049
