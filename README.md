@@ -140,33 +140,19 @@ Days 5-6: Data analysis and preparation for the final report
 #### Survey Data
 
 | User | Q1 | Q2 | Q3 | Q10 | Q11 | Q12 | Q13 | Q14 | Q15 | Hours_per_week |
-
 |------|----|----|----|-----|-----|-----|-----|-----|-----|----------------|
-
 | 1    | a  | b  | a  | b   | a   | d   | a   | b   | b   | 10             |
-
 | 2    | b  | c  | b  | b   | b   | d   | b   | a   | c   | 14             |
-
 | 3    | c  | a  | c  | b   | c   | c   | a   | c   | b   | 7              |
-
 | 4    | d  | b  | b  | b   | b   | d   | b   | a   | c   | 20             |
-
 | 5    | e  | d  | a  | b   | a   | c   | b   | b   | a   | 5              |
-
 | 6    | a  | c  | b  | b   | c   | d   | a   | c   | b   | 12             |
-
 | 7    | c  | a  | d  | b   | b   | d   | a   | b   | b   | 18             |
-
 | 8    | b  | b  | a  | b   | c   | d   | b   | a   | c   | 15             |
-
 | 9    | d  | c  | b  | b   | a   | c   | b   | c   | b   | 8              |
-
 | 10   | a  | a  | c  | b   | a   | d   | a   | b   | a   | 10             |
-
 | 11   | c  | d  | a  | b   | b   | d   | b   | a   | c   | 25             |
-
 | 12   | b  | c  | b  | b   | a   | c   | a   | c   | b   | 6              |
-
 | 13   | a  | b  | a  | b   | c   | d   | b   | a   | c   | 30             |
 
 #### Visualize the data for Question 1
