@@ -136,5 +136,32 @@ Days 5-6: Data analysis and preparation for the final report
 等待填写
 
 ### Survey Data Analysis
-等待填写
+
+#### Survey Data
+| User | Q1 | Q2 | Q3 | Q10 | Q11 | Q12 | Q13 | Q14 | Q15 | Hours_per_week |
+|------|----|----|----|-----|-----|-----|-----|-----|-----|----------------|
+| 1    | a  | b  | a  | b   | a   | d   | a   | b   | b   | 10             |
+| 2    | b  | c  | b  | b   | b   | d   | b   | a   | c   | 14             |
+| 3    | c  | a  | c  | b   | c   | c   | a   | c   | b   | 7              |
+| 4    | d  | b  | b  | b   | b   | d   | b   | a   | c   | 20             |
+| 5    | e  | d  | a  | b   | a   | c   | b   | b   | a   | 5              |
+| 6    | a  | c  | b  | b   | c   | d   | a   | c   | b   | 12             |
+| 7    | c  | a  | d  | b   | b   | d   | a   | b   | b   | 18             |
+| 8    | b  | b  | a  | b   | c   | d   | b   | a   | c   | 15             |
+| 9    | d  | c  | b  | b   | a   | c   | b   | c   | b   | 8              |
+| 10   | a  | a  | c  | b   | a   | d   | a   | b   | a   | 10             |
+| 11   | c  | d  | a  | b   | b   | d   | b   | a   | c   | 25             |
+| 12   | b  | c  | b  | b   | a   | c   | a   | c   | b   | 6              |
+| 13   | a  | b  | a  | b   | c   | d   | b   | a   | c   | 30             |
+
+#### Visualize the data for Question 1
+![image](https://github.com/xieincz/hci-lab5/assets/39424496/d3c4ac4d-59d1-4ab6-96e8-a095385c338c)
+
+#### Descriptive statistics for the hours per week
+|     |   count |     mean |      std |   min |   25% |   50% |   75% |   max |
+|---:|--------:|---------:|---------:|------:|------:|------:|------:|------:|
+|  0 |      13 | 13.8462  | 7.61409  |     5 |     8 |    12 |    18 |    30 |
+
+From the survey data, we observe that the most common role expected of AI in the future of live streaming platforms is to enhance content recommendation and personalized experience (Q1). The need for improved content quality and professionalism (Q2) and the emphasis on social interaction and user participation (Q3) are also highlighted. The unanimous belief that these platforms have a positive impact on society (Q10) is notable. There's a fairly even split in the type of platform users spend the most time on, with a slight preference for short video platforms (Q11). Most users spend more than 1 hour per day on these platforms (Q12), primarily for entertainment and leisure (Q13). There is a mix of regular and occasional content posters, with some expressing willingness to try (Q14). Advertisements seem to sometimes or often interfere with the user experience (Q15). The average hours spent per week on these platforms is quite high, indicating significant engagement.
+
 
