@@ -130,10 +130,17 @@ Days 5-6: Data analysis and preparation for the final report
 
 ## Data Analysis
 ### Interview Data Analysis
-等待填写
+
+The analysis consists of interview responses from four people discussing their views on short-form video and live-streaming platforms in the social media ecosystem. The analysis consists of four interview responses discussing their views on short-form video and live streaming platforms in the social media ecosystem. Key points covered include the impact of these platforms on traditional media and advertising, the streaming and regulation of content created using users, the use of algorithms in content discovery, and the role of algorithms in content creation. The role of algorithms in content discovery, the challenges faced by content creators in building a following and maintaining the quality of their content, the value of promoting these platforms to artists and creators, misuse and abuse. The value of these platforms to artists and creators, the negative impact of experiences such as misuse and misinformation, and the need for innovative and diverse content that appeals to a wide range of users, The integration of virtual and augmented reality technologies to enhance the viewer experience, as well as the related legal and ethical challenges of data privacy and content auditing.
+
+According to the content of the interviews of the four interviewers, their affective values were all above 0.5, indicating that they expressed positive feelings or attitudes. This could be interpreted as their more positive views on short video and live streaming platforms and related topics.
+
+The four interviewees had generally positive views of short video and live streaming platforms. They see these platforms as playing an important role in the social media ecosystem. They viewed these platforms as playing an important role in the social media ecosystem and having a significant impact on traditional media and advertising. They emphasized the increased use of these platforms by younger generations, and referred to new technologies such as virtual reality and the Internet. The use of new technologies such as virtual reality and augmented reality was mentioned. In addition, they focused on issues of content regulation and legality, indicating that there are concerns about the quality and safety of platform content. In addition, they focused on issues of content regulation and legality, indicating concerns about the quality and safety of content on platforms. They also mentioned the partnership between creators and platforms, and the impact of recommendation algorithms on their browsing and viewing habits. They also mentioned the partnership between creators and platforms, and the impact of recommendation algorithms on their browsing and viewing habits. In general, they expressed optimism about the business models, diversity of content, and future development of these platforms, and were willing to participate and interact with them. In general, they were optimistic about the business models, content diversity, and future development of these platforms, and were willing to participate and interact actively.
 
 #### Affinity diagram
-等待填写
+
+![image](https://github.com/xieincz/hci-lab5/assets/39424496/be6adc70-115d-48f5-9046-72970fbdfdb9)
+
 
 ### Survey Data Analysis
 
